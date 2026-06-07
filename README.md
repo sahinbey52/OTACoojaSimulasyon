@@ -1,6 +1,7 @@
 # OTACoojaSimulasyon
 İşletim Sistemleri Dönem Sonu Projesi
 
+YouTube bağlantısı: https://youtu.be/q966e-f6NZ0
 
 FIRMWARE DOSYASINI GÖNDERİCİ DÜĞÜMÜN DOSYA SİSTEMİNE YÜKLEME
 
